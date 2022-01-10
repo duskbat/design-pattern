@@ -6,7 +6,8 @@ import com.muweiye.pattern.creation.factorymethod.product.Product;
 
 /**
  * 工厂方法模式<br>
- * 只关注
+ * 使用方给定想要的产品<br>
+ * 不关注生产的过程
  */
 public class User {
 
@@ -20,7 +21,6 @@ public class User {
 
     public void func2() {
         product2 = StaticFactory.produce("A");
-
     }
 
 }
