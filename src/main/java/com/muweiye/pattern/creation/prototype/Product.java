@@ -2,8 +2,6 @@ package com.muweiye.pattern.creation.prototype;
 
 public class Product implements Cloneable {
 
-    private static final Product PROTOTYPE = new Product(1, "prop", new StringBuilder("default"));
-
     int prop1;
     String prop2;
     StringBuilder prop3;
@@ -12,10 +10,6 @@ public class Product implements Cloneable {
         this.prop1 = prop1;
         this.prop2 = prop2;
         this.prop3 = prop3;
-    }
-
-    public static Product getProduct() {
-        return PROTOTYPE.clone();
     }
 
     @Override
