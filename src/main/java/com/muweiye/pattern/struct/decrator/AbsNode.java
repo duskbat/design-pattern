@@ -2,7 +2,7 @@ package com.muweiye.pattern.struct.decrator;
 
 /**
  * 模板
- * 持有Node属性, 子类调用super.doAction()的时候执行持有的Node的方法
+ * 持有Node属性, 子类调用super.doAction()的时候执行持有的Node的doAction()
  */
 public abstract class AbsNode implements Node {
 
