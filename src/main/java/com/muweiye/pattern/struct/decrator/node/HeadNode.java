@@ -1,4 +1,4 @@
-package com.muweiye.pattern.struct.decrator;
+package com.muweiye.pattern.struct.decrator.node;
 
 public class HeadNode implements Node {
 

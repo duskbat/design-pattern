@@ -1,4 +1,4 @@
-package com.muweiye.pattern.struct.decrator;
+package com.muweiye.pattern.struct.decrator.node;
 
 /**
  * 定义行为

@@ -1,4 +1,4 @@
-package com.muweiye.pattern.struct.decrator;
+package com.muweiye.pattern.struct.decrator.node;
 
 public class BctionNode extends AbsNode {
 
@@ -8,6 +8,7 @@ public class BctionNode extends AbsNode {
 
     @Override
     public <T> void doAction(T param) {
+
         super.doAction(param);
         System.out.println("B action");
     }
