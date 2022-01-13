@@ -4,7 +4,7 @@ import com.muweiye.pattern.struct.bridge.engine.Engine;
 
 public abstract class Car {
 
-    protected Engine engine;
+    protected final Engine engine;
 
 
     protected Car(Engine engine) {
