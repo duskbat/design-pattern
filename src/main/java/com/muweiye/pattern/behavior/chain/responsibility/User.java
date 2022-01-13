@@ -4,6 +4,9 @@ import com.muweiye.pattern.behavior.chain.responsibility.handler.Handler1;
 import com.muweiye.pattern.behavior.chain.responsibility.handler.Handler2;
 import com.muweiye.pattern.behavior.chain.responsibility.handler.Handler3;
 
+/**
+ * 责任链
+ */
 public class User {
 
     public void func() {
