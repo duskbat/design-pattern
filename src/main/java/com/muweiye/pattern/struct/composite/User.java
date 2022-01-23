@@ -1,6 +1,7 @@
 package com.muweiye.pattern.struct.composite;
 
 /**
+ * 组合模式<br>
  * 就是个树形结构, 没啥好说的
  */
 public class User {

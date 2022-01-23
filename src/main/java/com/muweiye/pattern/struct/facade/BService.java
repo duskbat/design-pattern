@@ -1,4 +1,4 @@
-package com.muweiye.pattern.struct.facede;
+package com.muweiye.pattern.struct.facade;
 
 public interface BService {
 

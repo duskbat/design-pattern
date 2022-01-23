@@ -7,12 +7,16 @@ import java.util.List;
 
 @Getter
 public class Element {
-    public Element(String name) {
-        this.name = name;
-    }
+
     private String name;
 
     private final List<Element> elements = new ArrayList<>();
+
+
+    public Element(String name) {
+        this.name = name;
+    }
+
 
     public void add(Element e) {
         elements.add(e);
