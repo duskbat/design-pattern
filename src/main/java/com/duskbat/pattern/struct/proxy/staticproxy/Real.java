@@ -1,4 +1,4 @@
-package com.duskbat.pattern.struct.proxy;
+package com.duskbat.pattern.struct.proxy.staticproxy;
 
 public class Real implements AInterface {
 
