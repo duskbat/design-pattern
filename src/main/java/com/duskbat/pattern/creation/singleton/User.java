@@ -1,11 +1,14 @@
 package com.duskbat.pattern.creation.singleton;
 
+/**
+ * 4种单例模式
+ */
 public class User {
 
     public void func() {
-         Singleton_0.getInstance();
-         Singleton_1.getInstance();
-         Singleton_2.getInstance();
-         Singleton_3.getInstance();
+        Singleton0 instance0 = Singleton0.getInstance();
+        Singleton1 instance1 = Singleton1.getInstance();
+        Singleton2 instance2 = Singleton2.getInstance();
+        Singleton3 instance3 = Singleton3.getInstance();
     }
 }
