@@ -1,7 +1,5 @@
 package com.duskbat.pattern.behavior.chain.responsibility;
 
-import com.duskbat.pattern.behavior.chain.responsibility.handler.Handler;
-
 import java.util.ArrayList;
 import java.util.List;
 

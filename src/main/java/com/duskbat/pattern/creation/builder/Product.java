@@ -1,6 +1,4 @@
-package com.duskbat.pattern.creation.builder.product;
-
-import com.duskbat.pattern.creation.builder.Builder;
+package com.duskbat.pattern.creation.builder;
 
 public class Product {
 

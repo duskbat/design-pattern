@@ -1,7 +1,5 @@
 package com.duskbat.pattern.creation.builder;
 
-import com.duskbat.pattern.creation.builder.product.Product;
-
 /**
  * 建造者模式<br>
  * 使用方关注建造顺序和过程

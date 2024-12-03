@@ -1,6 +1,4 @@
-package com.duskbat.pattern.struct.bridge.car;
-
-import com.duskbat.pattern.struct.bridge.engine.Engine;
+package com.duskbat.pattern.struct.bridge;
 
 public class ABrandCar extends Car {
 

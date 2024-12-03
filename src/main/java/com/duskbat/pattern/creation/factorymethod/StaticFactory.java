@@ -1,7 +1,4 @@
-package com.duskbat.pattern.creation.factorymethod.factory;
-
-import com.duskbat.pattern.creation.factorymethod.product.Product;
-import com.duskbat.pattern.creation.factorymethod.product.ProductA;
+package com.duskbat.pattern.creation.factorymethod;
 
 public class StaticFactory {
 

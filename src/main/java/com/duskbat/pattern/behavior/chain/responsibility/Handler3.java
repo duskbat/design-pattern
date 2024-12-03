@@ -1,4 +1,4 @@
-package com.duskbat.pattern.behavior.chain.responsibility.handler;
+package com.duskbat.pattern.behavior.chain.responsibility;
 
 public class Handler3 implements Handler{
     @Override

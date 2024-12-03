@@ -1,4 +1,4 @@
-package com.duskbat.pattern.struct.decorator.node;
+package com.duskbat.pattern.struct.decorator;
 
 public class ActionNode extends AbsNode {
 

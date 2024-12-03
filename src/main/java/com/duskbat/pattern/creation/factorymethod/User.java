@@ -1,9 +1,5 @@
 package com.duskbat.pattern.creation.factorymethod;
 
-import com.duskbat.pattern.creation.factorymethod.factory.Factory;
-import com.duskbat.pattern.creation.factorymethod.factory.StaticFactory;
-import com.duskbat.pattern.creation.factorymethod.product.Product;
-
 /**
  * 工厂方法模式<br>
  * 使用方给定想要的产品<br>

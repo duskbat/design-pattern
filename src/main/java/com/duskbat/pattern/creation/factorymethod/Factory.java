@@ -1,6 +1,4 @@
-package com.duskbat.pattern.creation.factorymethod.factory;
-
-import com.duskbat.pattern.creation.factorymethod.product.Product;
+package com.duskbat.pattern.creation.factorymethod;
 
 public interface Factory {
 

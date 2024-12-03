@@ -1,9 +1,5 @@
 package com.duskbat.pattern.behavior.chain.responsibility;
 
-import com.duskbat.pattern.behavior.chain.responsibility.handler.Handler2;
-import com.duskbat.pattern.behavior.chain.responsibility.handler.Handler3;
-import com.duskbat.pattern.behavior.chain.responsibility.handler.Handler1;
-
 /**
  * 责任链
  */

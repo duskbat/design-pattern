@@ -1,4 +1,4 @@
-package com.duskbat.pattern.struct.bridge.engine;
+package com.duskbat.pattern.struct.bridge;
 
 public interface Engine {
 

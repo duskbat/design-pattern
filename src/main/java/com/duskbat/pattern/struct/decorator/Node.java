@@ -1,4 +1,4 @@
-package com.duskbat.pattern.struct.decorator.node;
+package com.duskbat.pattern.struct.decorator;
 
 /**
  * 定义行为

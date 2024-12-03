@@ -1,10 +1,5 @@
 package com.duskbat.pattern.struct.decorator;
 
-import com.duskbat.pattern.struct.decorator.node.ActionNode;
-import com.duskbat.pattern.struct.decorator.node.BctionNode;
-import com.duskbat.pattern.struct.decorator.node.HeadNode;
-import com.duskbat.pattern.struct.decorator.node.Node;
-
 /**
  * 装饰器模式<br>
  * 动态地给对象添加一些职责, 比生成子类更灵活<br>
